@@ -1,0 +1,94 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "answers": [
+      { "text": "HyperText Markup Language", "correct": true },
+      { "text": "HighText Machine Language", "correct": false },
+      { "text": "HyperTool Multi Language", "correct": false },
+      { "text": "Hyperlinks and Text Markup Language", "correct": false }
+    ]
+  },
+  {
+    "question": "Which HTML tag is used to define a hyperlink?",
+    "answers": [
+      { "text": "<link>", "correct": false },
+      { "text": "<href>", "correct": false },
+      { "text": "<a>", "correct": true },
+      { "text": "<hyper>", "correct": false }
+    ]
+  },
+  {
+    "question": "Which HTML tag is used to define an image?",
+    "answers": [
+      
+      { "text": "<picture>", "correct": false },
+      { "text": "<img>", "correct": true },
+      { "text": "<src>", "correct": false },
+      { "text": "<image>", "correct": false }
+    ]
+  },
+  {
+    "question": "What is the correct HTML element for the largest heading?",
+    "answers": [
+      
+      { "text": "<head>", "correct": false },
+      { "text": "<h6>", "correct": false },
+      { "text": "<heading>", "correct": false },
+      { "text": "<h1>", "correct": true }
+    ]
+  },
+  {
+    "question": "Which tag is used to create a table row in HTML?",
+    "answers": [
+      { "text": "<td>", "correct": false },
+      { "text": "<tr>", "correct": true },
+      { "text": "<table>", "correct": false },
+      { "text": "<th>", "correct": false }
+    ]
+  },
+  {
+    "question": "What does CSS stand for?",
+    "answers": [
+      { "text": "Colorful Style Syntax", "correct": false },
+      { "text": "Creative Style System", "correct": false },
+      { "text": "Computer Style Sheets", "correct": false },
+      { "text": "Cascading Style Sheets", "correct": true }
+    ]
+  },
+  {
+    "question": "Which property is used to change the text color in CSS?",
+    "answers": [
+      { "text": "font-color", "correct": false },
+      { "text": "text-color", "correct": false },
+      { "text": "color", "correct": true },
+      { "text": "background-color", "correct": false }
+    ]
+  },
+  {
+    "question": "How do you select an element with the class name 'container'?",
+    "answers": [
+      { "text": ".container", "correct": true },
+      { "text": "#container", "correct": false },
+      { "text": "container", "correct": false },
+      { "text": "*container", "correct": false }
+    ]
+  },
+  {
+    "question": "Which CSS property controls the size of text?",
+    "answers": [
+      { "text": "text-size", "correct": false },
+      { "text": "font-style", "correct": false },
+      { "text": "text-font", "correct": false },
+      { "text": "font-size", "correct": true }
+    ]
+  },
+  {
+    "question": "What does the 'display: none' declaration do?",
+    "answers": [
+      { "text": "Hides the element from the page", "correct": true },
+      { "text": "Makes the element transparent", "correct": false },
+      { "text": "Moves the element to the bottom", "correct": false },
+      { "text": "Shrinks the element to 0 height", "correct": false }
+    ]
+  }
+]
